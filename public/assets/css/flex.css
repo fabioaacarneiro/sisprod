@@ -1,0 +1,47 @@
+.justify-start {
+    justify-content: start;
+}
+
+.justify-end {
+    justify-content: end;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.align-start {
+    align-content: start;
+}
+
+.align-end {
+    align-content: end;
+}
+
+.align-center {
+    align-content: center;
+}
+
+.container {
+    display: flex;
+}
+
+.g1 {
+    gap: 2px;
+}
+
+.g2 {
+    gap: 4px;
+}
+
+.g3 {
+    gap: 6px;
+}
+
+.g4 {
+    gap: 8px;
+}
+
+.g5 {
+    gap: 10px;
+}

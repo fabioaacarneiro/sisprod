@@ -1,0 +1,79 @@
+.rounded-1 {
+    border-radius: 2px;
+}
+
+.rounded-2 {
+    border-radius: 4px;
+}
+
+.rounded-3 {
+    border-radius: 5px;
+}
+
+.rounded-4 {
+    border-radius: 7px;
+}
+
+.rounded-5 {
+    border-radius: 10px;
+}
+
+.p1 {
+    padding: 2px;
+}
+
+
+.p2 {
+    padding: 4px;
+}
+
+
+.p3 {
+    padding: 5px;
+}
+
+
+.p4 {
+    padding: 7px;
+}
+
+
+.p5 {
+    padding: 10px;
+}
+
+.m1 {
+    margin: 2px;
+}
+
+
+.m2 {
+    margin: 4px;
+}
+
+
+.m3 {
+    margin: 5px;
+}
+
+
+.m4 {
+    margin: 7px;
+}
+
+
+.m5 {
+    margin: 10px;
+}
+
+.ma {
+    margin: auto;
+}
+
+.h100vh {
+    height: 100vh;
+}
+
+.w100vw {
+    width: 100vw;
+}

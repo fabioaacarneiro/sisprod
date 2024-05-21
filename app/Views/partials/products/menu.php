@@ -1,0 +1,1 @@
+<button class="button bg-black text-white p3 m3 border rounded-4" id="insert-product">Cadastrar Produto</button>

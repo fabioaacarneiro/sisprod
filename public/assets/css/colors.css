@@ -1,0 +1,83 @@
+.text-blue {
+    color: dodgerblue;
+}
+
+.text-lightgrey {
+    color: lightgrey;
+}
+
+.text-green {
+    color: green;
+}
+
+.text-red {
+    color: red;
+}
+
+.text-pink {
+    color: pink;
+}
+
+.text-black {
+    color: black;
+}
+
+.text-white {
+    color: white;
+}
+
+.bg-blue {
+    background-color: dodgerblue;
+}
+
+.bg-lightgrey {
+    background-color: lightgrey;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-pink {
+    background-color: pink;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.border-blue {
+    border: 1px solid dodgerblue;
+}
+
+.border-lightgrey {
+    border: 1px solid lightgrey;
+}
+
+.border-red {
+    border: 1px solid red;
+}
+
+.border-green {
+    border: 1px solid green;
+}
+
+.border-pink {
+    border: 1px solid pink;
+}
+
+.border-black {
+    border: 1px solid black;
+}
+
+.border-white {
+    border: 1px solid white;
+}
